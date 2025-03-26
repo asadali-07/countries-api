@@ -1,0 +1,1 @@
+// const [filterData,functionlike set quwery] useFilter(data,()=>"")
